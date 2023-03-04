@@ -1,4 +1,4 @@
-# Minded_Hackathon
+# Minded Hackathon
 
 # Add Steps from Here .....
 
