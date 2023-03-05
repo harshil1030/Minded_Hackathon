@@ -18,5 +18,6 @@ $ pip install -r  requirements.txt
 
 ![b](https://user-images.githubusercontent.com/75235451/222947375-fdc45d7b-81e4-4a68-9316-8eb08345a7e8.jpg)
 
-*Data of Employee Sended to Database
+# Data of Employee Sended to Database
+
 ![WhatsApp Image 2023-03-05 at 12 10 54](https://user-images.githubusercontent.com/75235451/222947384-9f94d472-d1c1-4385-add8-ac9abc26ce48.jpg)
