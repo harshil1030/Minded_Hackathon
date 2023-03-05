@@ -14,7 +14,7 @@ $ pip install -r  requirements.txt
 
 # Images
 
-![a](https://user-images.githubusercontent.com/75235451/222947357-e1890164-dd95-4724-9d95-6a7cac369114.png)
+![a](https://user-images.githubusercontent.com/75235451/222947670-95f3d42f-9254-464e-b320-60095685124d.png)
 
 ![b](https://user-images.githubusercontent.com/75235451/222947375-fdc45d7b-81e4-4a68-9316-8eb08345a7e8.jpg)
 
