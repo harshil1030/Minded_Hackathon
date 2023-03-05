@@ -2,7 +2,6 @@
 
 ## Live Demo
 
-https://user-images.githubusercontent.com/98902181/222950061-31b0d8f6-4901-4065-bd57-e398f309a44f.mp4
 
 ## Installation
 
