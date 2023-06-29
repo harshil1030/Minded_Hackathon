@@ -22,7 +22,7 @@ $ pip install -r  requirements.txt
 
 ### Realtime Face Identification and Recognition (Who the Person is.)
 
-![a](https://user-images.githubusercontent.com/75235451/222947670-95f3d42f-9254-464e-b320-60095685124d.png)
+
 
 ![b](https://user-images.githubusercontent.com/75235451/222947375-fdc45d7b-81e4-4a68-9316-8eb08345a7e8.jpg)
 
