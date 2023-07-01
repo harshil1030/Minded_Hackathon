@@ -30,4 +30,4 @@ $ pip install -r  requirements.txt
 
 ![Screenshot 2023-07-01 172600](https://github.com/harshil1030/Minded_Hackathon/assets/75235451/625c3e66-f4a9-4788-bf54-850f80b4ad09)
 
-![WhatsApp Image 2023-03-05 at 12 10 54](https://user-images.githubusercontent.com/75235451/222947384-9f94d472-d1c1-4385-add8-ac9abc26ce48.jpg)
+
