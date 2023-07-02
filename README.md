@@ -28,6 +28,7 @@ $ pip install -r  requirements.txt
 
 ### Data of Employee Sended to Database
 
-![Screenshot 2023-07-01 172600](https://github.com/harshil1030/Minded_Hackathon/assets/75235451/625c3e66-f4a9-4788-bf54-850f80b4ad09)
+![data1](https://github.com/harshil1030/Minded_Hackathon/assets/75235451/c955c950-7795-41b4-bb60-1f007cab64c4)
+
 
 
